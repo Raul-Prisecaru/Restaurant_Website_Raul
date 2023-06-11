@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+
+#overlay {
+    width: 100%;
+    height: 100%;
+    position: fixed;
+
+}
+
+.container {
+    
+    width: 10%;
+    height: 100vh;
+    display: flex;
+    align-items:center;
+    justify-content: center;
+}
+
+form {
+    background: white;
+    display: flex;
+    flex-direction: column;
+    padding: 2vw 4vw;
+    width: 90%;
+    max-width: 600px;
+    border-radius: 10px;
+}
+
+form h3{
+    color: black;
+    margin-bottom: 20px;
+}
+
+form input, form textarea{
+    border: 1;
+    margin: 10px 0;
+    padding: 20px;
+    outline: none;
+    background: white;
+    
+}
+
+form button{
+    padding: 5px;
+    cursor: pointer;
+    width:150px;
+    margin: 20px auto 0;
+    border-radius:20px;
+}
+
+
+
+#FacebookLogo {
+    width: 100px;
+}
+
+
+#InstagramLogo {
+    position: absolute;
+    width: 200px;
+    bottom:70px;
+    left:1050px;
+}

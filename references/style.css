@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+/* Head title */
+#heading {
+	text-align: center;
+	font-family: Roboto;
+}
+/* Menu stuff */
+#menu {
+	
+	font-size: 180%;
+	font-family: Roboto;
+	
+}
+
+/* background colour */
+body {
+  background-color: #FAE5C7;
+}
+/* What is Restaurant Express */
+#WhatIsRE {
+	position: absolute;
+	padding-left: 100px;
+	text-align: left;
+	top: 200px;
+	font-size: 180%;
+	font-family: Roboto;
+}
+/* introduction information */
+#WhatIsREIntro {
+	position:absolute;
+	text-align: left;
+	padding-left:100px;
+	top: 275px;
+	font-size:140%;
+	font-family: Roboto;
+}
+/*Why order from us*/
+#WhyChooseUs {
+	position:absolute;
+	text-align: left;
+	padding-left: 1100px;
+	top: 470px;
+	font-size:180%;
+	font-family: Roboto;
+}
+
+#WhyChooseUsIntro {
+	position:absolute;
+	text-align: center;
+	padding-left:1100px;
+	top: 570px;
+	font-size:140%;
+	font-family: Roboto;
+}
+
